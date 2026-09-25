@@ -7,3 +7,4 @@ interests in software development and emerging technologies.
 
 The portfolio is designed with a clean and responsive user interface to ensure an optimal experience across
 desktop and mobile devices.
+URL: http://127.0.0.1:5500/index.html 
